@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: "NodeMemo • Productive Workspace",
+  title: "Post-it Todo List",
   description: "경량 웜톤 포스트잇 스타일 웹 메모 보드",
 };
 
